@@ -1,0 +1,6 @@
+G:\[STUDIA]\[SEMESTR 2]\Programowanie Obiektowe\C#\[Zadanie 3]\Przychodnia\ClassLibrary\bin\Debug\ClassLibrary.dll
+G:\[STUDIA]\[SEMESTR 2]\Programowanie Obiektowe\C#\[Zadanie 3]\Przychodnia\ClassLibrary\bin\Debug\ClassLibrary.pdb
+G:\[STUDIA]\[SEMESTR 2]\Programowanie Obiektowe\C#\[Zadanie 3]\Przychodnia\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+G:\[STUDIA]\[SEMESTR 2]\Programowanie Obiektowe\C#\[Zadanie 3]\Przychodnia\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+G:\[STUDIA]\[SEMESTR 2]\Programowanie Obiektowe\C#\[Zadanie 3]\Przychodnia\ClassLibrary\obj\Debug\ClassLibrary.dll
+G:\[STUDIA]\[SEMESTR 2]\Programowanie Obiektowe\C#\[Zadanie 3]\Przychodnia\ClassLibrary\obj\Debug\ClassLibrary.pdb
